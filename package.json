@@ -57,7 +57,7 @@
     "fastify": "3.14.1",
     "rollup": "2.39.0",
     "semantic-release": "17.4.3",
-    "tap": "14.11.0"
+    "tap": "15.0.9"
   },
   "dependencies": {
     "@eik/common": "2.0.3",
